@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(142, 247, 141);
+}
+
+h1{
+    margin: auto;
+    width: 300px;
+}
+
+#formForGuest{
+    width: 500px;
+    margin: auto;
+}
+
+#formForGuest #output{
+    font-size: 1.2em;
+    background-color: rgb(247, 247, 7);
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
